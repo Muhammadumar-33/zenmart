@@ -24,6 +24,7 @@
   height: 508px;
   background-color: #0053f6;
   background-image:url("../images/icons/header_bg.svg") ;
+  border-radius:7px ;
 
 }
 
